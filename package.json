@@ -1,0 +1,16 @@
+{
+  "name": "interactive-rating-component-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "selenium_tests.js",
+  "scripts": {
+    "test": "node your-selenium-test.js"
+  }
+  ,
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.15.0"
+  }
+}
